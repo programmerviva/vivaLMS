@@ -12,6 +12,7 @@
     "format:check": "prettier --check ."
   },
   "dependencies": {
+    "@clerk/clerk-react": "^5.23.0",
     "@tailwindcss/vite": "^4.0.8",
     "humanize-duration": "^3.32.1",
     "quill": "^2.0.3",

@@ -1,6 +1,10 @@
+import AppRoutes from "./routes/AppRoutes"
+
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+       <AppRoutes/>
+    </div>
   )
 }
 
